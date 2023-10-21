@@ -1,6 +1,6 @@
 ## Hands-on Machine Learning2
 
-### 머신러닝 튜토리얼 (핸즈온 머신러닝2판)
+### *머신러닝 튜토리얼 (핸즈온 머신러닝2판)*
 
 ![image](https://github.com/7l-hyuk/Hands-on-Machine-Learning2/assets/148605684/cab59b04-1868-4cab-b321-00f4ff9d5b5c)
 
